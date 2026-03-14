@@ -1,17 +1,17 @@
 # Privacy Policy
 
-**PawTrack**
-**Last Updated: March 6, 2026**
+**Pawsitively Healthy**
+**Last Updated: March 13, 2026**
 
 ## Introduction
 
-PawTrack ("we," "our," or "the app") is a pet care tracking application for iOS and watchOS. This Privacy Policy explains how your information is collected, used, and shared when you use PawTrack.
+Pawsitively Healthy ("we," "our," or "the app") is a pet care tracking application for iOS and watchOS. This Privacy Policy explains how your information is collected, used, and shared when you use PawTrack.
 
 ## Information We Collect
 
 ### Account Information
 
-PawTrack uses your Apple iCloud account for authentication and data synchronization. We do not create separate user accounts or collect your name, email address, or password directly. Your iCloud account identifier is used solely to associate your data with your devices.
+Pawsitively Healthy uses your Apple iCloud account for authentication and data synchronization. We do not create separate user accounts or collect your name, email address, or password directly. Your iCloud account identifier is used solely to associate your data with your devices.
 
 ### Pet Information
 
@@ -48,7 +48,7 @@ All data is stored locally on your device using Apple's SwiftData framework with
 
 ### iCloud (CloudKit)
 
-When you are signed into iCloud, your data is automatically synchronized to your private iCloud CloudKit database (`iCloud.com.pawtrack.app`). Apple manages the encryption and security of data stored in CloudKit. Your data is stored in your personal iCloud private database and is not accessible to us or any third party.
+When you are signed into iCloud, your data is automatically synchronized to your private iCloud CloudKit database (`iCloud.com.pawsitively-healthy.app`). Apple manages the encryption and security of data stored in CloudKit. Your data is stored in your personal iCloud private database and is not accessible to us or any third party.
 
 For more information about how Apple handles iCloud data, see [Apple's iCloud Security Overview](https://support.apple.com/en-us/102651).
 
@@ -70,7 +70,7 @@ You may choose to share your pet data with other iCloud users through CloudKit s
 
 ### Third Parties
 
-PawTrack does **not**:
+Pawsitively Healthy does **not**:
 
 - Sell your data to third parties
 - Share your data with advertisers
@@ -82,7 +82,7 @@ All data remains within Apple's ecosystem (your device and your private iCloud a
 
 ## Permissions
 
-PawTrack may request the following device permissions:
+Pawsitively Healthy may request the following device permissions:
 
 | Permission | Purpose |
 |---|---|
@@ -90,7 +90,7 @@ PawTrack may request the following device permissions:
 | **Photo Library** | Select photos for pet profiles |
 | **Notifications** | Deliver reminder alerts |
 
-PawTrack does **not** access your location, camera, microphone, contacts, or health data (Apple HealthKit).
+Pawsitively Healthy does **not** access your location, camera, microphone, contacts, or health data (Apple HealthKit).
 
 ## Data Retention
 
@@ -98,11 +98,11 @@ Your data persists on your device and in your iCloud account for as long as you 
 
 ## Data Export and Portability
 
-PawTrack provides a data export feature that allows you to export your pet data (care logs, breathing rates, reminders, and medications) as JSON files. This supports your right to data portability.
+Pawsitively Healthy provides a data export feature that allows you to export your pet data (care logs, breathing rates, reminders, and medications) as JSON files. This supports your right to data portability.
 
 ## Children's Privacy
 
-PawTrack does not knowingly collect personal information from children under 13. The app tracks pet data, not personal data about children. iCloud account access is governed by Apple's own age and parental consent requirements.
+Pawsitively Healthy does not knowingly collect personal information from children under 13. The app tracks pet data, not personal data about children. iCloud account access is governed by Apple's own age and parental consent requirements.
 
 ## Security
 
