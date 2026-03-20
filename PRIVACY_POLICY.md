@@ -120,37 +120,11 @@ All data remains within Apple's ecosystem (your device and your private iCloud a
 
 Pawsitively Healthy may request the following device permissions:
 
-|
- Permission 
-|
- Purpose 
-|
-|
----
-|
----
-|
-|
-**
-iCloud
-**
-|
- Sync and back up your data across devices 
-|
-|
-**
-Photo Library
-**
-|
- Select photos for pet profiles 
-|
-|
-**
-Notifications
-**
-|
- Deliver reminder alerts via local and remote notifications 
-|
+| Permission |Purpose |
+|---|---|
+|**iCloud**| Sync and back up your data across devices |
+|**Photo Library**| Select photos for pet profiles |
+|**Notifications**| Deliver reminder alerts via local and remote notifications |
 
 Pawsitively Healthy does **not** access your location, camera, microphone, contacts, or health data (Apple HealthKit).
 
